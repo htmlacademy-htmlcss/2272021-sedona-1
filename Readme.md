@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Райан Гослинг](https://up.htmlacademy.ru/htmlcss-individual/1/user/2272021).
-* Наставник: `Неизвестно`.
+* Студент: [Степанова Виктория](https://up.htmlacademy.ru/htmlcss-individual/1/user/2272021).
+* Наставник: `Карина Карапетян`.
 
 ---
 
